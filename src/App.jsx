@@ -38,7 +38,7 @@ function App() {
           </div>
           <div className='col-md-4'>
             <img src="https://codingapple1.github.io/shop/shoes3.jpg" width="80%"/>
-            <h4>상품명</h4>
+            <h4>상품명</h4>  
             <p>상품설명</p>
             <button className='btn btn-primary'>주문하기</button>
           </div>
